@@ -1,0 +1,9 @@
+.env/
+.vscode/
+.DS_Store
+node_modules/
+__pycache__/
+Output/
+*.png
+package-lock.json
+*.pyc
